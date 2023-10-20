@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23903" started-at="2023-10-20T04:52:58Z" finished-at="2023-10-20T04:53:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23903" started-at="2023-10-20T04:52:58Z" finished-at="2023-10-20T04:53:22Z">
+      <class name="test.orangeHRM">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:test.orangeHRM@26be92ad]" name="LaunchApp" is-config="true" duration-ms="6478" started-at="2023-10-19T21:52:58Z" finished-at="2023-10-19T21:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="verifyLoginfeature()[pri:0, instance:test.orangeHRM@26be92ad]" name="verifyLoginfeature" duration-ms="11778" started-at="2023-10-19T21:53:05Z" finished-at="2023-10-19T21:53:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginfeature -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:test.orangeHRM@26be92ad]" name="CloseApp" is-config="true" duration-ms="5628" started-at="2023-10-19T21:53:16Z" finished-at="2023-10-19T21:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- test.orangeHRM -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
